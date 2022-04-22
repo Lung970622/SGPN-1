@@ -1,0 +1,1 @@
+data/indoor3d_ins_seg_hdf5/StanfordIndoorDataPath_bush-5.h5
