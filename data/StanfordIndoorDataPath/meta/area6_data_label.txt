@@ -1,0 +1,5 @@
+StanfordIndoorDataPath_bush-1.npy
+StanfordIndoorDataPath_bush-2.npy
+StanfordIndoorDataPath_bush-3.npy
+StanfordIndoorDataPath_bush-4.npy
+StanfordIndoorDataPath_bush-5.npy
